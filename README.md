@@ -1,6 +1,7 @@
 # modelagem-e-projetos-de-bancos-de-dados
 📚 Repositório dedicado ao estudo e prática de modelagem de dados (Conceitual e Lógico) e projetos de banco de dados.
 
+
 # 🗄️Fundamentos de Modelagem de Bancos de Dados
 Para o desenvolvimento de sistemas robustos, é essencial compreender que um Banco de Dados não é apenas um depósito de arquivos, mas, conforme definido por Korth, uma coleção de dados inter-relacionados que representam informações sobre um domínio específico. Em suma, trata-se de um agrupamento de registros utilizáveis que se conectam para atender a uma finalidade comum.
 
@@ -23,7 +24,8 @@ Fortes: Existem por si só, sem dependências.
 
 Fracas (ou Quebradas): Dependem de outra entidade para existir ou para serem identificadas.
 
-Para qualificar essas entidades, utilizamos os Atributos, que podem variar em natureza:
+
+### Para qualificar essas entidades, utilizamos os Atributos, que podem variar em natureza:
 
 Simples: Armazenam um valor único.
 
