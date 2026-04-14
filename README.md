@@ -1,6 +1,5 @@
-# modelagem-e-projetos-de-bancos-de-dados
+# MODELAGEM E PROJETOS DE BANCOS DE DADOS
 📚 Repositório dedicado ao estudo e prática de modelagem de dados (Conceitual e Lógico) e projetos de banco de dados.
-
 
 # 🗄️Fundamentos de Modelagem de Bancos de Dados
 Para o desenvolvimento de sistemas robustos, é essencial compreender que um Banco de Dados não é apenas um depósito de arquivos, mas, conforme definido por Korth, uma coleção de dados inter-relacionados que representam informações sobre um domínio específico. Em suma, trata-se de um agrupamento de registros utilizáveis que se conectam para atender a uma finalidade comum.
